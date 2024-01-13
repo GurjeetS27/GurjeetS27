@@ -1,4 +1,4 @@
-﻿# GurjeetS27
+﻿# Gurjeet Singh
 
 **`Developer`**
 
