@@ -8,7 +8,7 @@ Hi, I'm Gurjeet Singh, a Software Engineer passionate about AI, Full-Stack Devel
 
 *   🌍  I'm based in Nashville
 *   ✉️  You can contact me at [sgurjeet627@gmail.com](mailto:sgurjeet627@gmail.com)
-*   🧠  I'm learning a SQL, JavaScript, R, PHP, MySQL
+*   🧠  Currently expanding my expertise in AI frameworks (TensorFlow, OpenAI API, Hugging Face) and cloud deployment using AWS Lambda & Docker
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I love working out, Tell Everyone
 
