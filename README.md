@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Gurjeet Singh, an ambitious fourth-year Computer Science major at Middle Tennessee State University, expertly builds fun projects that involve multiple programming languages.
+Hi, I'm Gurjeet Singh, a Software Engineer passionate about AI, Full-Stack Development, and Cloud Computing. I specialize in Python, JavaScript (React.js, Node.js), SQL, and AI technologies. I have built AI-driven projects, full-stack applications, and scalable cloud solutions using AWS. Open to collaborations and new opportunities!
 
 *   🌍  I'm based in Nashville
 *   ✉️  You can contact me at [sgurjeet627@gmail.com](mailto:sgurjeet627@gmail.com)
